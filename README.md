@@ -1,2 +1,1 @@
-# Pugstagram
-
+# pugstagram
